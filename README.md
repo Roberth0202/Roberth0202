@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Sou do Rio de janeiro-Brasil<br>📚 Atualmente estudando sozinho(pretendo fazer ADS futuramente)<br>🎯 Foco em ser Back-end</p>
+<p align="left">✨ Sou do Rio de janeiro-Brasil<br>📚 Cursando Analise e Desenvolvimento de Sistema - Uniasselvi <br>🎯 Foco em ser Back-end</p>
 
 ###
 
